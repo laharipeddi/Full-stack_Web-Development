@@ -8,6 +8,6 @@
  - deleting a task
 
 ## PROJECT STRUCTURE
- - to-do-list.html
- - to-do-list.css
- - to-do.js
+ - todo.html
+ - todo.css
+ - todo.js
